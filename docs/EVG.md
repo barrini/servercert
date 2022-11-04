@@ -1752,4 +1752,5 @@ guidelines:
   * **LEI**:
 
   The use of LEIs according to ISO 17442.
+  And according to ETSI EN 319 412-1.
  
