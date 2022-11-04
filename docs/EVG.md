@@ -1747,3 +1747,9 @@ guidelines:
   [Section 9.2.4](#924-subject-jurisdiction-of-incorporation-or-registration-field).
   The stated address of the organization combined with the organization name
   SHALL NOT be the only information used to disambiguate the organization.
+  
+  
+  * **LEI**:
+
+  The use of LEIs according to ISO 17442.
+ 
